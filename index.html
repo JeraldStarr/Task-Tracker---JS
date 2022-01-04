@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Task Tracker</title>
+</head>
+<body>
+    <div id="root">
+        <div class="container">
+            <header class="header">
+                <h1>Task Tracker</h1>
+                <button class="btn">Add</button>
+            </header>
+            <form class="add-form notShow">
+                <div class="form-control"><label>Task</label><input type="text" class="text" placeholder="Add Task" value=""></div>
+                <div class="form-control"><label>Day &amp; Time</label><input type="text" class="day" placeholder="Add Day &amp; Time" value=""></div>
+                <div class="form-control form-control-check"><label>Set Reminder</label><input type="checkbox" value="false"></div>
+                <input type="submit" class="btn btn-block" value="Save Task">
+             </form>
+        </div>
+    </div>
+    <script type="module" src="./script/script.js"></script>
+</body>
+</html>

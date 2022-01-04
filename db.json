@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "Feb 6th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "text": "dddd",
+      "day": "dfadfadfada",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "Zjeść śniadanie",
+      "day": "Wtorek",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "Go to work",
+      "day": "Jan 8th at 08:00",
+      "reminder": "false",
+      "id": 9
+    },
+    {
+      "text": "Go for a walk",
+      "day": "Jan 9th at 17:00",
+      "reminder": "false",
+      "id": 10
+    },
+    {
+      "text": "Appointment to an Agent",
+      "day": "10th at 16:30",
+      "reminder": "false",
+      "id": 11
+    }
+  ]
+}
