@@ -5,7 +5,9 @@ allows to save locally data.
 You can run the application by using local server to your computer.
 
 You can run the backend by providing this command to your console:
-- <code>npm run server</code> - server run on port 5001
+- <code>npm run server</code> - server runs on port 5001
+
+Package which allows to use local backend is [npm json-server] (https://www.npmjs.com/package/json-server)
 
 # Technology
 Application created by javascript, CSS and HTML
@@ -17,3 +19,7 @@ Application created by javascript, CSS and HTML
 - opera
 - yandex
 - chromium
+- tor
+
+# Supported Node.js
+- 17.3.0
