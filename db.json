@@ -1,12 +1,6 @@
 {
   "tasks": [
     {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "Feb 6th at 1:30pm",
-      "reminder": true
-    },
-    {
       "text": "Go to work",
       "day": "Jan 8th at 08:00",
       "reminder": "false",
@@ -29,6 +23,12 @@
       "day": "ten tydzień",
       "reminder": "false",
       "id": 12
+    },
+    {
+      "text": "new task",
+      "day": "jesturday",
+      "reminder": "false",
+      "id": 13
     }
   ]
 }
